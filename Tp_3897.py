@@ -1,3 +1,4 @@
+#created by luciano
 import itertools
 casos = []
 time1,time2=map(str,input().split(','))
