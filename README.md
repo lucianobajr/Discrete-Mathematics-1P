@@ -1,4 +1,4 @@
-# MAT-DISCRETA-1P
+# MAT-DISCRETA-1P       [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lucianobajr/MAT-DISCRETA-1P)
 <h4>Trabalho Prático sobre as Combinações de Gols feitos em um jogo de Futebol entre duas Equipes</h4>
 <ul> 
 <li>A primeira linha de Entrada Corresponde ao nome das duas equipes, da seguinte forma</li>
