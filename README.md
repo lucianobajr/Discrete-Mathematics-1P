@@ -1,18 +1,40 @@
-# MAT-DISCRETA-1P       [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lucianobajr/MAT-DISCRETA-1P)
-<h4>Trabalho Prático sobre as Combinações de Gols feitos em um jogo de Futebol entre duas Equipes</h4>
-<ul> 
-<li>A primeira linha de Entrada Corresponde ao nome das duas equipes, da seguinte forma</li>
-<ul>
-  <li>A,B(sendo necessário o uso da Vírgula)</li>
-</ul>
-<li> A Segunda linha de Entrada Correponde a quantidade de gols feitos pela primeira equipe</li>
-<ul>
- <li>3</li>
-</ul>
-<li> A Terceira linha de Entrada Correponde a quantidade de gols feitos pela Segunda equipe</li>
-<ul>
- <li>2</li>
-</ul>
-</ul>
+# Discrete-Mathematics-1P       [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lucianobajr/Discrete-Mathematics-1P)
 
-![Captura de tela de 2019-11-15 16-15-25](https://user-images.githubusercontent.com/45442173/68969309-699aef00-07c3-11ea-8c64-8e04f48e3f43.png)
+## Practical Work on Goal Combinations Made in a Football Match Between Two Teams
+
+
+<p align="center">
+
+    sudo apt-get install python3
+
+</p>
+
+<p align="center">
+
+    python3 Tp_3897.py
+
+</p>
+
+ 
+*  The first line of Input Matches the names of the two teams as follows.
+
+<p align="center">
+
+    A, B (Comma required)
+
+</p>
+
+
+* Second Line In Matches the number of goals scored by the first team.
+<p align="center">
+
+    3
+
+</p>
+
+*  Third Line In Matches number of goals scored by Second Team
+<p align="center">
+
+    2
+
+</p>
