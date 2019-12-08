@@ -1,4 +1,6 @@
-# Discrete-Mathematics-1P       [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lucianobajr/Discrete-Mathematics-1P)
+# Discrete-Mathematics-1P <br>
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lucianobajr/Discrete-Mathematics-1P)
 
 ## Practical Work on Goal Combinations Made in a Football Match Between Two Teams
 
